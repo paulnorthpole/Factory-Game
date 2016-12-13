@@ -7,6 +7,7 @@ public struct InputRequirements {
     public int maxStorage;
     public int partsReceived;
 }
+//Test
 
 public static class InputRequirementExtensions {
     public static int TotalReceived(this InputRequirements[] requirements) {
